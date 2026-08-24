@@ -72,9 +72,3 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/igaganhere/igaganhere/output/github-contribution-grid-snake.svg" alt="GitHub Snake Contribution Graph" />
 </p>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,30&height=100&section=footer" width="100%" />
-</div>
