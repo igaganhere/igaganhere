@@ -28,26 +28,23 @@
 
 <div align="center">
 
-  **Languages**  
-  <p>
-    <img src="https://skillicons.dev/icons?i=python" />
-  </p>
+ ### Languages
+<img src="https://skillicons.dev/icons?i=python" />
 
-  **Data Science & Machine Learning**  
-  <p>
-    <img src="https://skillicons.dev/icons?i=pytorch,scikitlearn,numpy,pandas,seaborn,keras" />
-  </p>
+### Data Science & Machine Learning
+<img src="https://skillicons.dev/icons?i=pytorch,sklearn" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="48" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="48" />
+<img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" height="48" />
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" height="48" />
 
-  **Big Data, Databases & Cloud**  
-  <p>
-    <img src="https://skillicons.dev/icons?i=postgres,mongodb,hadoop,docker,aws,azure" />
-  </p>
+### Big Data, Databases & Cloud
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,docker,aws,azure" />
+<img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black" height="48" />
 
-  **Developer Tools**  
-  <p>
-    <img src="https://skillicons.dev/icons?i=linux,github,kaggle,git,vscode" />
-  </p>
-
+### Developer Tools
+<img src="https://skillicons.dev/icons?i=linux,github,git,vscode" />
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" height="48" />
 </div>
 
 ---
