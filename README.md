@@ -57,13 +57,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/igaganhere">
-    <img src="https://github-readme-stats.vercel.app/api?username=igaganhere&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/igaganhere">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igaganhere&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-  </a>
+  <img src="https://raw.githubusercontent.com/igaganhere/igaganhere/main/github-metrics.svg" alt="GitHub Metrics" />
 </p>
+
 
 ---
 
