@@ -23,28 +23,29 @@
 
 ---
 
-### 🛠️ Tech Stack & Tooling
+
+    ### 🛠️ Tech Stack & Tooling
 
 <div align="center">
 
-  **Languages & Core**  
+  **Languages**  
   <p>
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,bash,r" />
+    <img src="https://skillicons.dev/icons?i=python" />
   </p>
 
   **Data Science & Machine Learning**  
   <p>
-    <img src="https://skillicons.dev/icons?i=numpy,pandas,scikitlearn,tensorflow,pytorch" />
+    <img src="https://skillicons.dev/icons?i=pytorch,scikitlearn,numpy,pandas,seaborn,keras" />
   </p>
 
   **Big Data, Databases & Cloud**  
   <p>
-    <img src="https://skillicons.dev/icons?i=hadoop,mysql,postgres,mongodb,aws,docker" />
+    <img src="https://skillicons.dev/icons?i=postgres,mongodb,hadoop,docker,aws,azure" />
   </p>
 
-  **BI & Developer Tools**  
+  **Developer Tools**  
   <p>
-    <img src="https://skillicons.dev/icons?i=git,github,linux,centos,vscode" />
+    <img src="https://skillicons.dev/icons?i=linux,github,kaggle,git,vscode" />
   </p>
 
 </div>
