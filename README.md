@@ -17,7 +17,8 @@
 ### 🚀 About Me
 
 * 🎓 Pursuing **M.Sc. in Data Science**
-* 🤖 Building intelligent applications with **Agentic AI & LLM Frameworks** (LangChain, Gemini API)
+* 🧠⚙️ Currently working on **Machine Learning, Deep Learning & NLP techniques** 
+* 🤖 Focused in building intelligent applications with **Agentic AI & LLM Frameworks** (LangChain, Gemini API)
 * ⚡ Deep diving into **Big Data pipelines, Distributed Computing, and Predictive Modeling**
 * 🛠️ Passionate about developing open-source tools and data utilities
 
@@ -49,26 +50,28 @@
 
 ---
 
-### 📊 GitHub Activity & Analytics
+### 🔗📊 GitHub Activity & Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=igaganhere&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=igaganhere&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=igaganhere&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igaganhere&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</div>
+<p align="center">
+  <a href="https://github.com/igaganhere">
+    <img src="https://github-readme-stats.vercel.app/api?username=igaganhere&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/igaganhere">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igaganhere&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  </a>
+</p>
 
 ---
 
-### 🐍 Contribution Activity
+### 🔄 Contribution Activity
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/igaganhere/igaganhere/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/your-username/your-username/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Snake Contribution Graph" src="https://raw.githubusercontent.com/your-username/your-username/output/github-contribution-grid-snake.svg" width="100%">
-</picture>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/igaganhere/igaganhere/output/github-contribution-grid-snake.svg" alt="GitHub Snake Contribution Graph" />
+</p>
 
 ---
 
